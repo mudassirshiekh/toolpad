@@ -20,6 +20,7 @@
 </div>
 
 ## Product walkthrough
+## By Mudassir Alam
 
 - [Toolpad Core](https://mui.com/toolpad/core/introduction/) is a set of high level React components that abstract common concepts such as layout navigation and routing. It aims at helping you build and maintain dashboards and internal tooling faster. It's built on top of [Material UI](http://github.com/mui/material-ui/).
 
